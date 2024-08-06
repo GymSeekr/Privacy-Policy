@@ -6,7 +6,7 @@ title: Privacy Policy
 
 <div class="navbar">
   <a href="index.md" class="active">Privacy Policy</a>
-  <a href="app-guide.md">App Guide</a>
+  <a href="app-guide.html">App Guide</a>
 </div>
 
 <div class="container">
