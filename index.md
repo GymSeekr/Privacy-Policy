@@ -5,7 +5,7 @@ title: Privacy Policy
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 <div class="navbar">
-  <a href="index.md" class="active">Privacy Policy</a>
+  <a href="index.html" class="active">Privacy Policy</a>
   <a href="app-guide.html">App Guide</a>
 </div>
 
