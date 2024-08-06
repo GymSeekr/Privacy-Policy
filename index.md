@@ -1,4 +1,3 @@
-
 We, GymSeekr, take your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
 
 ## Collection of Routine Information
@@ -42,3 +41,5 @@ We reserve the right to update or change our Privacy Policy at any time, and you
 ## Contact Information
 
 For any questions or concerns regarding the privacy policy, please send an email to Aditya Chandrasekhar and Anish Neema at gymseekr@gmail.com.
+
+[Check out our App Guide](app-guide.md) for a summary of GymSeekr, a guide to basic functionality, and answers to frequently asked questions.
