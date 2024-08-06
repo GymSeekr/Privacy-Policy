@@ -1,0 +1,10 @@
+title: GymSeekr
+description: Find local gyms and access detailed information.
+theme: jekyll-theme-cayman
+
+# Navigation Links
+nav_links:
+  - name: "Privacy Policy"
+    url: "/index.md"
+  - name: "App Guide"
+    url: "/app-guide.md"
