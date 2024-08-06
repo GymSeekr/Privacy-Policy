@@ -2,7 +2,7 @@
 title: App Guide
 ---
 
-# GymSeekr App Guide
+# App Guide
 
 ## Summary
 GymSeekr is designed to help users find local gyms and access detailed information about available equipment and facilities. With seamless integration with Google Maps and robust backend services provided by AWS, GymSeekr aims to enhance your gym-seeking experience.
