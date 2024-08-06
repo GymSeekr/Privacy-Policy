@@ -5,7 +5,7 @@ title: App Guide
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 <div class="navbar">
-  <a href="index.md">Privacy Policy</a>
+  <a href="index.html">Privacy Policy</a>
   <a href="app-guide.html" class="active">App Guide</a>
 </div>
 
