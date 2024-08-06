@@ -6,7 +6,7 @@ title: App Guide
 
 <div class="navbar">
   <a href="index.md">Privacy Policy</a>
-  <a href="app-guide.md" class="active">App Guide</a>
+  <a href="app-guide.html" class="active">App Guide</a>
 </div>
 
 <div class="container">
