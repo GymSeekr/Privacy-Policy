@@ -12,7 +12,7 @@ GymSeekr is designed to help users find local gyms and access detailed informati
 ### Finding a Gym
 1. **Enable Location Services**: Ensure that location services are enabled on your device.
 2. **Search for Gyms**: Use the search bar to find gyms in your area.
-3. **View Details**: Click on a gym to view detailed information, including equipment lists and user reviews.
+3. **View Details**: Click on a gym to view detailed information, including equipment lists, a description, hours, and location.
 
 ### Creating an Account
 1. **Sign Up**: Provide a valid email address to create your account.
@@ -22,17 +22,13 @@ GymSeekr is designed to help users find local gyms and access detailed informati
 1. **Select a Gym**: Choose a gym from the search results.
 2. **View Equipment**: Check the equipment list to see what facilities are available.
 
-### Saving Favorite Gyms
-1. **Mark as Favorite**: Click the heart icon on the gym details page to save it to your favorites.
-2. **Access Favorites**: View your favorite gyms from the favorites section in your profile.
-
 ## FAQ
 
 ### How do I reset my password?
 To reset your password, click on the "Forgot Password" link on the login page and follow the instructions sent to your email.
 
 ### Can I access GymSeekr without an account?
-Yes, you can browse gyms and view basic details without an account. However, some features like saving favorites and viewing equipment lists require you to be logged in.
+No, an account is required to access GymSeekr. 
 
 ### How is my data protected?
 We use AWS Amplify for authentication and DynamoDB for storing workout data. Your data is securely stored and managed following stringent security measures.
