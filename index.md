@@ -25,19 +25,15 @@ Where necessary, this app uses cookies to store information about a visitor’s 
 
 ## Advertisement and Other Third Parties
 
-Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts, and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+We do not display advertisements nor we do contain any links to other sites. 
 
-## Security
-
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-## Backend Services
+## Security/Backend Services
 
 We use AWS Amplify for login and DynamoDB to store your workout data. These services are provided by Amazon Web Services, which follows stringent security measures to protect your data. We do not sell user data or collect it in any unauthorized way.
 
 ## Changes To This Privacy Policy
 
-This Privacy Policy is effective as of 8/5/24 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This Privacy Policy is effective as of 8/11/24 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 We reserve the right to update or change our Privacy Policy at any time, and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us or by placing a prominent notice on our app.
 
