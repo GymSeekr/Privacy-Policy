@@ -1,3 +1,4 @@
+Anish Neema and Aditya Chandrasekhar built GymSeekr as a free app. 
 
 ## GymSeekr privacy policy
 
